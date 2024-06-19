@@ -1,0 +1,142 @@
+[{
+  "_id": {
+    "$oid": "6672893ba36e167643e9336a"
+  },
+  "name": "Desert Expedition",
+  "description": "A journey through sandy dunes",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      34.5553,
+      -115.5683
+    ]
+  },
+  "destinations": [
+    {
+      "name": "Oasis Campsite",
+      "description": "Resting in the heart of the desert",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          34.5553,
+          -115.5683
+        ]
+      },
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8tB1pQOo1NuLIwe6viHliqKaxHjexIW5bPQ&s",
+      "_id": {
+        "$oid": "6672893ba36e167643e9336b"
+      }
+    },
+    {
+      "name": "Sand Dune Peak",
+      "description": "Views across endless sands",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          34.5841,
+          -115.4009
+        ]
+      },
+      "imageUrl": "https://media.istockphoto.com/id/1438862424/photo/panoramic-shot-of-beautiful-sand-dunes-with-low-and-high-peaks-in-namib-desert.jpg?s=612x612&w=0&k=20&c=_HWus8uUI3i7qKpR9FD8GdDoWZ7xqFBd4sIcb29IJgQ=",
+      "_id": {
+        "$oid": "6672893ba36e167643e9336c"
+      }
+    }
+  ],
+  "image": "https://media.istockphoto.com/id/155157473/photo/tourists-on-train-of-camels-in-sahara-led-by-guide.jpg?s=612x612&w=0&k=20&c=oSoOW1HESx_ujvH1NS9SHHKOBHsl80H3yos6ja7zCJY=",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6672986584abff22decbecfc"
+  },
+  "name": "Sahara Trek",
+  "description": "An adventure through the vast Sahara desert",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      25.193,
+      10.1516
+    ]
+  },
+  "destinations": [
+    {
+      "name": "Tinfou Dunes",
+      "description": "Explore the rolling dunes and enjoy starry nights",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          29.1667,
+          -6
+        ]
+      },
+      "imageUrl": "https://as1.ftcdn.net/v2/jpg/03/13/33/02/1000_F_313330247_rvLd1rm0Uuzwq4xP3OIwRTCBwK6woQIW.jpg",
+      "_id": {
+        "$oid": "6672986584abff22decbecfd"
+      }
+    },
+    {
+      "name": "Oasis of Merzouga",
+      "description": "Rest at an oasis surrounded by palms",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          31.0994,
+          -4.0111
+        ]
+      },
+      "imageUrl": "https://as2.ftcdn.net/v2/jpg/03/12/85/85/1000_F_312858598_nasNiHEmc9di8nNrH7WTyzdzYZGrVA98.jpg",
+      "_id": {
+        "$oid": "6672986584abff22decbecfe"
+      }
+    }
+  ],
+  "image": "https://media.istockphoto.com/id/481618375/photo/young-tuareg-with-camel-on-western-sahara-desert-in-africa.jpg?s=612x612&w=0&k=20&c=oPK1Ncl3jE7UDOqtjvPumYppbO48YSz3d7grB8OeR60=",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6672993684abff22decbed0a"
+  },
+  "name": "Coastal Odyssey",
+  "description": "Discover breathtaking coastal vistas and serene beaches",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      37.0902,
+      -95.7129
+    ]
+  },
+  "destinations": [
+    {
+      "name": "Pacific Coast Highway",
+      "description": "Drive along one of the most scenic coastal roads",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          34.0339,
+          -118.434
+        ]
+      },
+      "imageUrl": "https://media.istockphoto.com/id/1308695861/photo/pacific-coastline-view-from-highway-number-1-california.jpg?s=612x612&w=0&k=20&c=m8PTtSjyM5eJjWbcM5qFv1y7gqKDhxDqPPlyXO0qNX4=",
+      "_id": {
+        "$oid": "6672993684abff22decbed0b"
+      }
+    },
+    {
+      "name": "Big Sur",
+      "description": "Explore rugged cliffs and pristine beaches",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          36.3615,
+          -121.8563
+        ]
+      },
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Central_Californian_Coastline%2C_Big_Sur_-_May_2013.jpg/1200px-Central_Californian_Coastline%2C_Big_Sur_-_May_2013.jpg",
+      "_id": {
+        "$oid": "6672993684abff22decbed0c"
+      }
+    }
+  ],
+  "image": "https://www.shutterstock.com/image-photo/embark-on-coastal-odyssey-tanjung-260nw-2309053425.jpg",
+  "__v": 0
+}]
