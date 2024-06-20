@@ -1,0 +1,282 @@
+[{
+  "_id": {
+    "$oid": "66745b39d023f8e5b971b9eb"
+  },
+  "name": "European Adventure",
+  "description": "A thrilling adventure through Europe visiting some of the most iconic places.",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      10.451526,
+      51.165691
+    ]
+  },
+  "days": [
+    {
+      "date": {
+        "$date": "2024-06-20T00:00:00.000Z"
+      },
+      "destinations": [
+        {
+          "name": "Eiffel Tower",
+          "description": "The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France.",
+          "location": {
+            "type": "Point",
+            "coordinates": [
+              2.2945,
+              48.8584
+            ]
+          },
+          "imageUrl": "https://example.com/eiffel_tower.jpg",
+          "_id": {
+            "$oid": "66745b39d023f8e5b971b9ed"
+          }
+        },
+        {
+          "name": "Louvre Museum",
+          "description": "The world's largest art museum and a historic monument in Paris, France.",
+          "location": {
+            "type": "Point",
+            "coordinates": [
+              2.3376,
+              48.8606
+            ]
+          },
+          "imageUrl": "https://example.com/louvre.jpg",
+          "_id": {
+            "$oid": "66745b39d023f8e5b971b9ee"
+          }
+        }
+      ],
+      "notes": "Exploring Paris' most famous landmarks.",
+      "_id": {
+        "$oid": "66745b39d023f8e5b971b9ec"
+      }
+    },
+    {
+      "date": {
+        "$date": "2024-06-21T00:00:00.000Z"
+      },
+      "destinations": [
+        {
+          "name": "Colosseum",
+          "description": "An ancient amphitheater in the center of the city of Rome, Italy.",
+          "location": {
+            "type": "Point",
+            "coordinates": [
+              12.4922,
+              41.8902
+            ]
+          },
+          "imageUrl": "https://example.com/colosseum.jpg",
+          "_id": {
+            "$oid": "66745b39d023f8e5b971b9f0"
+          }
+        },
+        {
+          "name": "Vatican Museums",
+          "description": "The Vatican Museums are the public art and sculpture museums in the Vatican City.",
+          "location": {
+            "type": "Point",
+            "coordinates": [
+              12.4534,
+              41.9065
+            ]
+          },
+          "imageUrl": "https://example.com/vatican.jpg",
+          "_id": {
+            "$oid": "66745b39d023f8e5b971b9f1"
+          }
+        }
+      ],
+      "notes": "A day immersed in Rome's rich history and culture.",
+      "_id": {
+        "$oid": "66745b39d023f8e5b971b9ef"
+      }
+    },
+    {
+      "date": {
+        "$date": "2024-06-22T00:00:00.000Z"
+      },
+      "destinations": [
+        {
+          "name": "La Sagrada Familia",
+          "description": "A large unfinished Roman Catholic minor basilica in Barcelona, Spain.",
+          "location": {
+            "type": "Point",
+            "coordinates": [
+              2.1744,
+              41.4036
+            ]
+          },
+          "imageUrl": "https://example.com/sagrada_familia.jpg",
+          "_id": {
+            "$oid": "66745b39d023f8e5b971b9f3"
+          }
+        },
+        {
+          "name": "Park Güell",
+          "description": "A public park system composed of gardens and architectural elements located on Carmel Hill in Barcelona, Spain.",
+          "location": {
+            "type": "Point",
+            "coordinates": [
+              2.1527,
+              41.4145
+            ]
+          },
+          "imageUrl": "https://example.com/park_guell.jpg",
+          "_id": {
+            "$oid": "66745b39d023f8e5b971b9f4"
+          }
+        }
+      ],
+      "notes": "Discovering the unique architecture of Barcelona.",
+      "_id": {
+        "$oid": "66745b39d023f8e5b971b9f2"
+      }
+    }
+  ],
+  "image": "https://example.com/european_adventure.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66745c99d023f8e5b971b9f7"
+  },
+  "name": "Scandinavian Discovery",
+  "description": "An exploration of Scandinavia's natural beauty and vibrant culture.",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      10.7522,
+      59.9139
+    ]
+  },
+  "days": [
+    {
+      "date": {
+        "$date": "2024-07-01T00:00:00.000Z"
+      },
+      "destinations": [
+        {
+          "name": "Nyhavn",
+          "description": "A 17th-century waterfront, canal, and entertainment district in Copenhagen, Denmark.",
+          "location": {
+            "type": "Point",
+            "coordinates": [
+              12.589,
+              55.6794
+            ]
+          },
+          "imageUrl": "https://example.com/nyhavn.jpg",
+          "_id": {
+            "$oid": "66745c99d023f8e5b971b9f9"
+          }
+        },
+        {
+          "name": "Tivoli Gardens",
+          "description": "One of the oldest amusement parks in the world and a landmark in Copenhagen, Denmark.",
+          "location": {
+            "type": "Point",
+            "coordinates": [
+              12.5683,
+              55.6737
+            ]
+          },
+          "imageUrl": "https://example.com/tivoli.jpg",
+          "_id": {
+            "$oid": "66745c99d023f8e5b971b9fa"
+          }
+        }
+      ],
+      "notes": "Beginning the journey in Copenhagen, experiencing its historic charm.",
+      "_id": {
+        "$oid": "66745c99d023f8e5b971b9f8"
+      }
+    },
+    {
+      "date": {
+        "$date": "2024-07-02T00:00:00.000Z"
+      },
+      "destinations": [
+        {
+          "name": "Vasa Museum",
+          "description": "A maritime museum in Stockholm, Sweden, featuring the Vasa, a 17th-century warship.",
+          "location": {
+            "type": "Point",
+            "coordinates": [
+              18.0919,
+              59.3288
+            ]
+          },
+          "imageUrl": "https://example.com/vasa.jpg",
+          "_id": {
+            "$oid": "66745c99d023f8e5b971b9fc"
+          }
+        },
+        {
+          "name": "Gamla Stan",
+          "description": "The old town of Stockholm, Sweden, known for its medieval alleyways and historic buildings.",
+          "location": {
+            "type": "Point",
+            "coordinates": [
+              18.0675,
+              59.325
+            ]
+          },
+          "imageUrl": "https://example.com/gamla_stan.jpg",
+          "_id": {
+            "$oid": "66745c99d023f8e5b971b9fd"
+          }
+        }
+      ],
+      "notes": "Delving into Stockholm's maritime history and cultural heritage.",
+      "_id": {
+        "$oid": "66745c99d023f8e5b971b9fb"
+      }
+    },
+    {
+      "date": {
+        "$date": "2024-07-03T00:00:00.000Z"
+      },
+      "destinations": [
+        {
+          "name": "Geirangerfjord",
+          "description": "A stunning fjord in Norway known for its deep blue waters and picturesque surrounding mountains.",
+          "location": {
+            "type": "Point",
+            "coordinates": [
+              7.205,
+              62.1018
+            ]
+          },
+          "imageUrl": "https://example.com/geirangerfjord.jpg",
+          "_id": {
+            "$oid": "66745c99d023f8e5b971b9ff"
+          }
+        },
+        {
+          "name": "Bergen Bryggen",
+          "description": "A historic wharf area in Bergen, Norway, known for its colorful wooden houses.",
+          "location": {
+            "type": "Point",
+            "coordinates": [
+              5.3243,
+              60.3976
+            ]
+          },
+          "imageUrl": "https://example.com/bergen_bryggen.jpg",
+          "_id": {
+            "$oid": "66745c99d023f8e5b971ba00"
+          }
+        }
+      ],
+      "notes": "Cruising through Norway's majestic fjords and visiting charming Bergen.",
+      "_id": {
+        "$oid": "66745c99d023f8e5b971b9fe"
+      }
+    }
+  ],
+  "image": "https://example.com/scandinavian_discovery.jpg",
+  "__v": 0
+}]
